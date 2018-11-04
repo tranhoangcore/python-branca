@@ -1,0 +1,4 @@
+1541357602862	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.holp94GE6CK3"
+*** You are running in headless mode.
+1541357604971	Marionette	INFO	Listening on port 42351
+1541357605191	Marionette	WARN	TLS certificate errors will be ignored for this session
