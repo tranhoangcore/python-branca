@@ -2,12 +2,12 @@
 # using fakeroot version 1.23
 pkgname = python-branca
 pkgbase = python-branca
-pkgver = 0.3.0-1
+pkgver = 0.3.1-1
 pkgdesc = Generate html+js with Python.
 url = https://github.com/python-visualization/branca
-builddate = 1541357598
+builddate = 1541603673
 packager = Unknown Packager
-size = 252928
+size = 248832
 arch = any
 license = MIT
 depend = python
